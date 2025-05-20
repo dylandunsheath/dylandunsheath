@@ -50,7 +50,7 @@
 
 ### ⚙️ Tools & Platforms
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"/> | <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=0tREDFkScvsm&format=png&color=000000" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"/> | <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/> |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Linux | Git | GitHub | Docker | Jest | Playwright |
 
