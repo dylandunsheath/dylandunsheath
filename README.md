@@ -22,17 +22,7 @@
   - Bash, C/C++, Python
 - 📫 Reach me at **dunsheathdylan@gmail.com**
 
----
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/dylan-dunsheath" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-</p>
-
----
 
 ### 💻 Programming Languages
 
@@ -82,6 +72,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dylandunsheath&margin-w=10&theme=flat" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dylandunsheath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+```
+
+```
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dylan-dunsheath" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
 </p>
+
+---
