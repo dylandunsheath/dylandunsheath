@@ -58,19 +58,6 @@
 | Linux | Git | GitHub | Docker | Jest | Playwright | Azure |
 
 
-
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dylandunsheath&show_icons=true&theme=default" alt="Dylan's GitHub Stats" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
